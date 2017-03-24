@@ -1,0 +1,1 @@
+This is an assignment designed to simulate the chaotic nature of the double pendulum. There are two classes, the only one that needs to be changed is the one called Ball, which will update the ball as needed
