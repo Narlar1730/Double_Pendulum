@@ -1,1 +1,8 @@
-This is an assignment designed to simulate the chaotic nature of the double pendulum. There are two classes, the only one that needs to be changed is the one called Ball, which will update the ball as needed
+#What to do
+This is a simple simulation.
+Just running the program as is will simply perform a double pendulum act.
+I was debating adding some switches and other UI stuff in order to make the calculations possible from the home screen,
+however due to many of the calculations taking several minutes this seemed redundant. So in order to determine what you
+want the program to do, head into the 'Ball' Class, and find the list of boolean switches. That is all that you have to worry about.
+Just flick on one of those bad boys and then exciting stuff will happen. It should be highlighted very clearly which ones to flick
+within the comments. 
